@@ -1,0 +1,5 @@
+data/dataset.csv
+__pycache__/
+*.pyc
+*.cfg
+.env
